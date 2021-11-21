@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module4HW6", "Module4HW6\Module4HW6.csproj", "{F030B938-ED81-4FED-8516-1260F907899D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module4HW6.DataAccess", "Module4HW6.DataAccess\Module4HW6.DataAccess.csproj", "{AA166852-A06E-487A-88DC-96659873EF91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F030B938-ED81-4FED-8516-1260F907899D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F030B938-ED81-4FED-8516-1260F907899D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F030B938-ED81-4FED-8516-1260F907899D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA166852-A06E-487A-88DC-96659873EF91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA166852-A06E-487A-88DC-96659873EF91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA166852-A06E-487A-88DC-96659873EF91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA166852-A06E-487A-88DC-96659873EF91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

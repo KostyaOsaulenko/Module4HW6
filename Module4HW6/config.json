@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=OSAULENKO;Database=Song;Trusted_Connection=True"
+  }
+} 
